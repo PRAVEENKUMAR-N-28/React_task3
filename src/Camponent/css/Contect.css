@@ -1,0 +1,28 @@
+.contect{
+    position: static;
+    background:#41e0fd;
+    height: 650px;
+}
+.title{
+    position: relative;
+    top: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+    font-weight: 600;
+    color: white;
+    
+}
+
+.social{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 259px;
+    gap: 20px;
+    cursor: pointer;
+}
+.ic{
+    font-size: 50px;
+}

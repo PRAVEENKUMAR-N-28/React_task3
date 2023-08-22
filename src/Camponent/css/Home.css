@@ -1,0 +1,29 @@
+
+.title{
+    position: relative;
+    top: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+    font-weight: 600;
+    color: white;
+    
+}
+.button{
+    position: relative;
+    top: 250px;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+}
+.con2{
+    position: static;
+}
+.con1{
+    height: 600px;
+    background-size: 100%;
+    background-image: url(https://miro.medium.com/v2/resize:fit:796/1*Ip4DQ8yeINTb3EYjOBlRSA.jpeg);
+    background-repeat: no-repeat;
+    
+}

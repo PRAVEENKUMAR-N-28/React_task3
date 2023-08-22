@@ -1,0 +1,16 @@
+.career{
+    position: static;
+    background:#41e0fd;
+    height: 650px;
+}
+.title{
+    position: relative;
+    top: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+    font-weight: 600;
+    color: white;
+    
+}
